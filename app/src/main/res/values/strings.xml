@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">W23D4</string>
+    <string name="addtext">Add a song below</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="song_name">Song Name</string>
+    <string name="year">Year</string>
+    <string name="add_song">Add Song</string>
+</resources>
